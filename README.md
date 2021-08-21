@@ -6,4 +6,6 @@ There are flex sensors in the glove that senses the movement in their hands and 
 
 These commands are then expressed through audio display so they can easily communicate with other people.
 
+## Ahmed AboZeid
+## Yehia Shahin
 ## Yehia Ehab
